@@ -16,7 +16,7 @@ This is a simple Discord bot built to help friends stay connected and entertaine
 <br/><br/>
 This was designed for my friend group to easily coordinate movie nights during the pandemic.
 Whether you're social distancing or just trying to pick a movie everyone agrees on, this bot helps make remote movie nights easier to organize and more fun.
-
+<br/><br/>
 💡 Why I Made This
 <br/><br/>
 During the height of the pandemic, my friends and I struggled to keep track of the movies we wanted to watch together. I created this bot as a lightweight solution to manage our watchlist right within Discord.
