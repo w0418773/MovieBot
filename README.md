@@ -8,7 +8,7 @@
 This is a simple Discord bot built to help friends stay connected and entertained during COVID lockdowns. The bot provides basic Create, Read, and Delete functionality to manage a shared list of movies to watch together.
 <br/><br/>
 🛠 Features
-
+<br/>
 ➕ Add movies to the list
 
 📃 View the full list of saved movies
