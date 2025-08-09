@@ -2,7 +2,6 @@
 <div align=center>
   <img width="469" height="218" alt="Screenshot 2025-08-07 154933" src="https://github.com/user-attachments/assets/d9c53e51-2d62-479d-bd40-876a0c4acff7" />
 </div>
-
 <br/><br/>
 🎬 Discord Movie Bot
 <br/><br/>
